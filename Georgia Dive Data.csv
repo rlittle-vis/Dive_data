@@ -1,0 +1,41 @@
+Athlete,START_DATE,MEET_TITLE,Round,Dive,Shape,height,DD,J1,J2,J3,J4,J5,J6,J7,Total,Points,Direction,Direction name,Dive_code
+Georgia,2023-11-18T00:00:00Z,Pullar Family Championships,1,205,B,3,3,8,7.5,8,8.5,6.5,7.5,8,23.5,70.5,20,Backward,205B
+Georgia,2023-11-18T00:00:00Z,Pullar Family Championships,2,107,C,3,2.8,8.5,8,8,8.5,7.5,8,8,24,67.2,10,Forwards,107C
+Georgia,2023-11-18T00:00:00Z,Pullar Family Championships,3,305,B,3,3,7,7.5,7,8,7,7.5,6.5,21.5,64.5,30,Reverse,305B
+Georgia,2023-11-18T00:00:00Z,Pullar Family Championships,4,405,B,3,3,6.5,6.5,6,6.5,6.5,6.5,7,19.5,58.5,40,Inward,405B
+Georgia,2023-11-18T00:00:00Z,Pullar Family Championships,5,5152,B,3,3,7,6.5,7,7,6.5,7,8,21,63,51,Forward Twist,5152B
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (prelim),1,205,B,3,3,7,7,7,7.5,7,7.5,7,21,63,20,Backward,205B
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (prelim),2,107,C,3,2.8,8,8,7.5,8,7.5,8,8,24,67.2,10,Forwards,107C
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (prelim),3,405,B,3,3,7,7.5,7,7,7,7,6.5,21,63,40,Inward,405B
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (prelim),4,305,B,3,3,5,4.5,5,5.5,5,6,4.5,15,45,30,Reverse,305B
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (prelim),5,5152,B,3,3,7,6.5,6.5,7,6.5,7,7.5,20.5,61.5,51,Forward Twist,5152B
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (semifinal),1,205,B,3,3,7,8,7,7.5,7.5,7,7.5,22,66,20,Backward,205B
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (semifinal),2,107,C,3,2.8,7.5,7.5,7.5,7.5,7.5,8,8,22.5,63,10,Forwards,107C
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (semifinal),3,405,B,3,3,8,7,6.5,6.5,7,7,7.5,21,63,40,Inward,405B
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (semifinal),4,305,B,3,3,6.5,6,6,6.5,6,6,6.5,18.5,55.5,30,Reverse,305B
+Georgia,2023-05-27T00:00:00Z,2023 Australian Open Champs (semifinal),5,5152,B,3,3,7,6.5,6.5,6,6.5,7,6.5,19.5,58.5,51,Forward Twist,5152B
+Georgia,2023-05-28T00:00:00Z,2023 Australian Open Champs (final),1,205,B,3,3,8,8,7.5,7.5,7,7.5,7.5,22.5,67.5,20,Backward,205B
+Georgia,2023-05-28T00:00:00Z,2023 Australian Open Champs (final),2,107,C,3,2.8,8,7,7,8,7.5,7.5,8,23,64.4,10,Forwards,107C
+Georgia,2023-05-28T00:00:00Z,2023 Australian Open Champs (final),3,405,B,3,3,8,7.5,7,7,7,7.5,6.5,21.5,64.5,40,Inward,405B
+Georgia,2023-05-28T00:00:00Z,2023 Australian Open Champs (final),4,305,B,3,3,8,8,7.5,7.5,8,8,8,24,72,30,Reverse,305B
+Georgia,2023-05-28T00:00:00Z,2023 Australian Open Champs (final),5,5152,B,3,3,8,7,7,6.5,7.5,7,7,21,63,51,Forward Twist,5152B
+Georgia,2022-06-03T00:00:00Z,2022 Australian Open Champs (prelim),1,205,B,3,3,6.5,7,7,7,6.5,6.5,7,20.5,61.5,20,Backward,205B
+Georgia,2022-06-03T00:00:00Z,2022 Australian Open Champs (prelim),2,305,B,3,3,8,7,8,8,8,7.5,7.5,23.5,70.5,30,Reverse,305B
+Georgia,2022-06-03T00:00:00Z,2022 Australian Open Champs (prelim),3,405,B,3,3,7,7,7,7,7.5,7.5,6,21,63,40,Inward,405B
+Georgia,2022-06-03T00:00:00Z,2022 Australian Open Champs (prelim),4,107,C,3,2.8,8,7.5,8,8,8,8,8,24,67.2,10,Forwards,107C
+Georgia,2022-06-03T00:00:00Z,2022 Australian Open Champs (prelim),5,5152,B,3,3,8,7.5,7.5,7.5,8,7.5,7.5,22.5,67.5,51,Forward Twist,5152B
+Georgia,2022-06-04T00:00:00Z,2022 Australian Open Champs (final),1,205,B,3,3,7,7,6.5,7.5,8,7.5,7.5,22,66,20,Backward,205B
+Georgia,2022-06-04T00:00:00Z,2022 Australian Open Champs (final),2,305,B,3,3,7.5,7.5,7.5,8,7.5,7.5,7.5,22.5,67.5,30,Reverse,305B
+Georgia,2022-06-04T00:00:00Z,2022 Australian Open Champs (final),3,405,B,3,3,7,6.5,6.5,6.5,6.5,5.5,6.5,19.5,58.5,40,Inward,405B
+Georgia,2022-06-04T00:00:00Z,2022 Australian Open Champs (final),4,107,C,3,2.8,7.5,7.5,8,8,8,8,8,24,67.2,10,Forwards,107C
+Georgia,2022-06-04T00:00:00Z,2022 Australian Open Champs (final),5,5152,B,3,3,7.5,7,7,7,8,8,8,22.5,67.5,51,Forward Twist,5152B
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (prelim),1,205,B,3,3,7.5,7,7.5,6,7,7.5,8,22,66,20,Backward,205B
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (prelim),2,305,B,3,3,7.5,6.5,7.5,7.5,8,7.5,8,22.5,67.5,30,Reverse,305B
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (prelim),3,405,B,3,3,4.5,5.5,5.5,5.5,5,5,5,15.5,46.5,40,Inward,405B
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (prelim),4,107,C,3,2.8,7.5,7,7,7.5,7.5,7.5,8,22.5,63,10,Forwards,107C
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (prelim),5,5152,B,3,3,8,7,8,7,7.5,7.5,7,22,66,51,Forward Twist,5152B
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (final),1,205,B,3,3,7,7,7.5,6,7,6,6.5,20.5,61.5,20,Backward,205B
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (final),2,305,B,3,3,8,7,7.5,6.5,7.5,6,6.5,21,63,30,Reverse,305B
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (final),3,405,B,3,3,5.5,5,4,4,5,5,4,14,42,40,Inward,405B
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (final),4,107,C,3,2.8,8,8,8.5,7.5,8,7,8,24,67.2,10,Forwards,107C
+Georgia,2022-04-30T00:00:00Z,2022 Victorian Open State Championships (final),5,5152,B,3,3,8,6.5,7.5,7,7.5,6.5,7.5,22,66,51,Forward Twist,5152B
